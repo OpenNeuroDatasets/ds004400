@@ -1,0 +1,9 @@
+{
+    "Name": "Number comparison task",
+    "Authors": ["Maria Czarnecka", "Andre Knops", "Marcin Szwed"
+    ],
+
+    "HowToAcknowledge": "Please cite this paper: Overlapping but separate number representations in the intraparietal sulcus",
+    
+    "BIDSVersion": "1.7.0"
+}
