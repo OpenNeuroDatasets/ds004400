@@ -1,4 +1,4 @@
-participant_id	gender	handness	braille_reading_hand
+participant_id	gender	handedness	braille_reading_hand
 sub-01	f	r	r
 sub-02	f	r	r
 sub-03	f	r	r
