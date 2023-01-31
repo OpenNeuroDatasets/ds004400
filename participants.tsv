@@ -1,26 +1,26 @@
-participant_id	gender
-sub-01	f
-sub-02	f
-sub-03	f
-sub-04	f
-sub-05	f
-sub-06	f
-sub-07	f
-sub-08	f
-sub-09	f
-sub-10	f
-sub-11	f
-sub-12	f
-sub-13	f
-sub-14	f
-sub-15	f
-sub-16	f
-sub-17	f
-sub-18	f
-sub-19	f
-sub-20	f
-sub-21	f
-sub-22	f
-sub-23	f
-sub-24	f
-sub-25	f
+participant_id	gender	handness	braille_reading_hand
+sub-01	f	r	r
+sub-02	f	r	r
+sub-03	f	r	r
+sub-04	f	r	r
+sub-05	f	r	r
+sub-06	f	r	r
+sub-07	f	r	l
+sub-08	f	r	l
+sub-09	f	r	l
+sub-10	f	r	l
+sub-11	f	r	l
+sub-12	f 	r	r
+sub-13	f	r	r
+sub-14	f	r	l
+sub-15	f	r	r
+sub-16	f	r	r
+sub-17	f	r	l
+sub-18	f	r	l
+sub-19	f	r	r
+sub-20	f	r	l
+sub-21	f	r	r
+sub-22	f	r	r
+sub-23	f	r	r
+sub-24	f	r	l
+sub-25	f	r	r
