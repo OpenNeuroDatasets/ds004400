@@ -1,4 +1,4 @@
-onset	duration	condition	resp	respTime
+onset	duration	trial_type	resp	respTime
 8	5.08328799999999	vis_abst_2	2	8.78502
 13.100068	6.003405	tact_abst_8	2	14.52302
 19.103585	4.0631	vis_Nabst_6	2	19.77602
